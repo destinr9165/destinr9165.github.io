@@ -3,4 +3,7 @@ h1{
 }
 img{
   width:200px;
+  height: 30%;
+  border: 3px solid red;
+  border-radius: 15px;
 }
