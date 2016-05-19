@@ -8,4 +8,5 @@ img{
 }
 body{
   background-image:url("prettybackground.jpg");
+  opacity: .6;
 }
