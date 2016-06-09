@@ -9,3 +9,14 @@ img{
 body{
   background-color:#46E8A7;
 }
+nav{
+ display:block;
+ width:100%;
+ position:absolute;
+ top:0;
+}
+div{
+display:inline-block;
+width:50%;
+height:80px;
+}
